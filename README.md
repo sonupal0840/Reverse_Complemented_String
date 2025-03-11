@@ -29,8 +29,9 @@ Steps
 
 Clone this repository:
 
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/sonupal0840/Reverse_Complemented_String.git
+cd Reverse_Complemented_String
+
 
 Create and activate a virtual environment:
 
